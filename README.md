@@ -1,8 +1,6 @@
-# C867 - Student Management System
+# Student Management System
 
 A C++ console application that models a school's student roster system. The program parses student data from a provided dataset, stores it using a class-based structure, and performs data validation, filtering, and reporting.
-
-> **Note:** This is a class project and is not meant to be copied. Feel free to look to see if it helps you understand your code better, but do not copy and paste any of the code.
 
 ## About
 
